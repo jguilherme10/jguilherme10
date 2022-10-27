@@ -27,11 +27,7 @@
  <a href = "mailto:guilherme123.campos12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Black" target="_blank"></a>
  <a href="https://www.linkedin.com/in/guilherme-campos-8862aa18b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/jguilherme_campos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <hr>
-  
-</div>
 
-![Snekaer animation](https://github.com/jguilherme10/jguilherme10/blob/output/github-user-contribution.svg)
 
 
 
